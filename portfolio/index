@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Jordan Tejeda Portfolio</title>
+		<link href="css/simpleGridTemplate.css" rel="stylesheet" type="text/css">
+	<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
+  		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<!--javascript link for canvas styling -->
+		
+	</head>
+<body>
+	<!-- Main Container -->
+	<div class="container"> 
+  <!-- Header -->
+  	<header class="header">
+	  <h2 align="center">"Web Developer & Designer"</h2>
+  	</header>
+	
+  <!-- Hero Section -->
+  <section class="intro">
+  	<div class="column">
+      		<h2>&#8224; JORDAN TEJEDA &#8224;</h2>
+      		<a href="index.html"><img src="images/mongeluzzi-home.png" alt="profile image" class="profile"></a> 
+	</div>
+    <div class="column">
+		
+      
+		<p> - IT IS ONE THING TO KNOW WHAT YOU WANT TO DO FOR THE REST OF YOUR LIFE. BUT IT'S ANOTHER WHEN YOU LOVE WHAT YOU DO! MY MOTHER ALWAYS TOLD ME, "WHATEVER YOU DO IN THIS WORLD, MAKE SURE YOUR THE BEST AT IT", AND I INTEND TO BE!</p> 
+
+<p>- Opportunity should never be taken litely, if you dont push yourself to be great you will never know what could have been...&nbsp; &nbsp;</p>
+	<img src="projects/Sun-moon-double.png" width="279" height="253" alt="my personal logo"/>
+	  </div>
+  </section>
+		<!--<ul class="nav nav-tabs">
+  			<li role="presentation" class="active"><a href="index.html">Home</a></li>
+  			<li role="presentation"><a href="aboutme.html">About Me</a></li>
+  			<li role="presentation"><a href="projects.html">Projects</a></li>
+			<li role="presentation"><a href="contact.html">Contact</a></li>
+			<li role="presentation"><a href="resources.html">Resources</a></li>
+		</ul>-->
+		
+		
+  <!-- Stats Gallery Section -->
+  <div class="gallery">
+    <div class="thumbnail"><a href="aboutme.html"><img src="images/simon-guillain.jpeg" alt="Simon G thumbnail" class="thumbnail"/></a>
+	<h2 align="left">About Me</h2>
+      <p class="text_column">Here's some of my Favored interests along with studying the web and networking with my artistic capabilities, along with my family and friends my make my life worth living!</p>
+    </div>
+	 <!-- projects page --> 
+    <div class="thumbnail"> <a href="projects.html"><img src="images/print-press.jpg" alt="guy at printer press"  class="thumbnail"/></a>
+      <h2 align="left">Projects</h2>
+      <p class="text_column">Some of my favorite projects so far, created with Photoshop, Illustrator, and a few JavaScript projects that I enjoyed creating.</p>
+    </div>
+	  <!-- contact page -->
+	  <div class="thumbnail"> <a href="contact.html"><img src="images/the_old_violin_will-harnett.jpg" alt=""  class="thumbnail"/></a>
+      <h2 align="left">Contact</h2>
+      <p class="text_column">Information about where I have received most of my Web Developer skills and more info on how YOU can get in contact with me.</p>
+    </div>
+	  <!-- resources page -->
+	  <div class="thumbnail"> <a href="resources.html">
+		<img src="images/edmond_maitre.jpg" alt="edmund maitre"  class="thumbnail"/></a>
+      <h2 align="left">Resources</h2>
+      <p class="text_column">External links to my other interests and projects perspectives.</p>
+    </div>
+    
+  </div>
+  
+  		</div>
+  <!-- Footer Section -->
+  <footer id="contact">
+    <p class="hero_header">Check out my credentials...</p>
+	 <div align="center"> <a href="docs/resume-jft.pdf" target="_blank"><div class="button">My Resum&eacute; </div></a></div>
+  </footer>
+  <!-- Copyrights Section -->
+  <div class="copyright">&copy;2021 - <h6>all rights reserved</h6>
+	</div>
+<!-- Main Container Ends -->
+</body>
+</html>
